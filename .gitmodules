@@ -13,3 +13,6 @@
 [submodule "ft_ls"]
 	path = ft_ls
 	url = https://github.com/Haradric/ft_ls.git
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/Haradric/minishell.git
