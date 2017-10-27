@@ -4,3 +4,6 @@
 [submodule "fillit"]
 	path = fillit
 	url = https://github.com/Haradric/fillit.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/Haradric/get_next_line.git
