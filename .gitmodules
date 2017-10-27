@@ -19,3 +19,6 @@
 [submodule "21sh"]
 	path = 21sh
 	url = https://github.com/Haradric/21sh.git
+[submodule "42sh"]
+	path = 42sh
+	url = https://github.com/Haradric/42sh.git
