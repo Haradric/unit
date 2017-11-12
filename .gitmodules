@@ -25,3 +25,6 @@
 [submodule "ft_select"]
 	path = ft_select
 	url = https://github.com/Haradric/ft_select.git
+[submodule "pool_cpp"]
+	path = pool_cpp
+	url = https://github.com/Haradric/pool_cpp.git
