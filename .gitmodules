@@ -31,3 +31,6 @@
 [submodule "ft_malloc"]
 	path = ft_malloc
 	url = https://github.com/Haradric/ft_malloc.git
+[submodule "ft_nm-otool"]
+	path = ft_nm-otool
+	url = https://github.com/Haradric/ft_nm-otool.git
