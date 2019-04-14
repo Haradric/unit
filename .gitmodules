@@ -37,3 +37,6 @@
 [submodule "N-puzzle"]
 	path = N-puzzle
 	url = https://github.com/Haradric/N-puzzle.git
+[submodule "LibftASM"]
+	path = LibftASM
+	url = https://github.com/Haradric/LibftASM.git
