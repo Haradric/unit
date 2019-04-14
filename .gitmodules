@@ -34,3 +34,6 @@
 [submodule "ft_nm-otool"]
 	path = ft_nm-otool
 	url = https://github.com/Haradric/ft_nm-otool.git
+[submodule "N-puzzle"]
+	path = N-puzzle
+	url = https://github.com/Haradric/N-puzzle.git
